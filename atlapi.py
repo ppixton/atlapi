@@ -30,6 +30,15 @@ for x in names:
         first_name = x
     data.append([first_name, last_name])
 
+file_name= ""
+with open(file_name, 'w', encoding='UTF8', newline='') as f:
+    writer = csv.writer(f)
+
+    #write the header:
+    writer.writerow(header)
+
+    #write the rows:
+    writer.writerows(data)
 
 
 print(data)
