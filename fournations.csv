@@ -1,0 +1,471 @@
+Employee Id,First Name,Last Name,Preferred First Name,Email,Secondary Email,Phone Number,Username,Password,Hire Date,Birth Date,Role,Country Code,Supervisor Id,Group Name,Langauge,#Affiliation
+001,46th,Earth King,,,,,,,,,,,,,,Air
+002,Aang,,,,,,,,,,,,,,,Air
+003,Afiko,,,,,,,,,,,,,,,Air
+004,Air,Acolyte woman,,,,,,,,,,,,,,Fire
+005,Air,Nomad boy,,,,,,,,,,,,,,Air
+006,Aiwei,,,,,,,,,,,,,,,Air
+007,Amon,,,,,,,,,,,,,,,None
+008,Analay,,,,,,,,,,,,,,,Water
+009,Animal,control officer,,,,,,,,,,,,,,None
+010,Appa,,,,,,,,,,,,,,,
+011,Appa's,mother,,,,,,,,,,,,,,Air
+012,Arik,,,,,,,,,,,,,,,Air
+013,Arnook,,,,,,,,,,,,,,,Air
+014,Asami,Sato,,,,,,,,,,,,,,Water
+015,Ashuna,,,,,,,,,,,,,,,None
+016,Aye-aye,spirit,,,,,,,,,,,,,,
+017,Azula,,,,,,,,,,,,,,,None
+018,Azula's,ship captain,,,,,,,,,,,,,,Fire
+019,Azulon,,,,,,,,,,,,,,,Fire
+020,Ba,Sing Se airship captain,,,,,,,,,,,,,,Fire
+021,Ba,Sing Se airship co-pilot,,,,,,,,,,,,,,Fire
+022,Ba,Sing Se University student,,,,,,,,,,,,,,Air
+023,Baatar,,,,,,,,,,,,,,,Air
+024,Baatar,Jr.,,,,,,,,,,,,,,None
+025,Baboon,spirit,,,,,,,,,,,,,,None
+026,Banished,servant,,,,,,,,,,,,,,Earth
+027,Baraz,and Ahnah,,,,,,,,,,,,,,None
+028,Bathroom,attendant,,,,,,,,,,,,,,Fire
+029,Bato,,,,,,,,,,,,,,,
+030,The,Big Bad Hippo,,,,,,,,,,,,,,Earth
+031,Bolin,,,,,,,,,,,,,,,Water
+032,Boma,,,,,,,,,,,,,,,Earth
+033,Bosco,,,,,,,,,,,,,,,Fire
+034,The,Boulder,,,,,,,,,,,,,,
+035,Broadsword,man,,,,,,,,,,,,,,Earth
+036,Bujing,,,,,,,,,,,,,,,Earth
+037,Bully,guard,,,,,,,,,,,,,,Earth
+038,Bum-Ju,,,,,,,,,,,,,,,Fire
+039,Bumi,,,,,,,,,,,,,,,Fire
+040,Bumi's,advisor,,,,,,,,,,,,,,None
+041,Butakha,,,,,,,,,,,,,,,Air
+042,Butler,,,,,,,,,,,,,,,Earth
+043,Buttercup,Raiko,,,,,,,,,,,,,,
+044,Cabbage,merchant,,,,,,,,,,,,,,
+045,Calm,man,,,,,,,,,,,,,,None
+046,Cam,,,,,,,,,,,,,,,None
+047,Canyon,guide,,,,,,,,,,,,,,Earth
+048,Captured,agent,,,,,,,,,,,,,,Earth
+049,Chan,,,,,,,,,,,,,,,None
+050,Chey,,,,,,,,,,,,,,,Earth
+051,Chin,,,,,,,,,,,,,,,None
+052,Chit,Sang,,,,,,,,,,,,,,Fire
+053,Chit,Sang's friend,,,,,,,,,,,,,,Fire
+054,Chit,Sang's girlfriend,,,,,,,,,,,,,,Fire
+055,Chong,,,,,,,,,,,,,,,
+056,Chow,,,,,,,,,,,,,,,
+057,Chung,,,,,,,,,,,,,,,
+058,Circus,master,,,,,,,,,,,,,,
+059,Circus,trainer,,,,,,,,,,,,,,
+060,Combustion,Man,,,,,,,,,,,,,,
+061,Concerned,evacuee,,,,,,,,,,,,,,
+062,Corncob,guy,,,,,,,,,,,,,,Fire
+063,Council,page,,,,,,,,,,,,,,Fire
+064,Dai,Li sergeant,,,,,,,,,,,,,,None
+065,The,Dark One,,,,,,,,,,,,,,
+066,Dark,spider spirit,,,,,,,,,,,,,,
+067,Daw,,,,,,,,,,,,,,,None
+068,Dealer,,,,,,,,,,,,,,,Earth
+069,Defense,attorney,,,,,,,,,,,,,,None
+070,Desna,and Eska,,,,,,,,,,,,,,None
+071,Ding,,,,,,,,,,,,,,,Air
+072,Dock/Xu/Bushi,,,,,,,,,,,,,,,
+073,Doorman,,,,,,,,,,,,,,,
+074,Dragon,eel spirit,,,,,,,,,,,,,,Water
+075,Druk,,,,,,,,,,,,,,,
+076,Due,,,,,,,,,,,,,,,None
+077,The,Duke,,,,,,,,,,,,,,None
+078,Earthbender,captain,,,,,,,,,,,,,,None
+079,Earthbending,academy teenagers,,,,,,,,,,,,,,Fire
+080,Elua,,,,,,,,,,,,,,,None
+081,Ember,Island Players,,,,,,,,,,,,,,Earth
+082,Engineer,,,,,,,,,,,,,,,Earth
+083,Fang,,,,,,,,,,,,,,,Earth
+084,Farmer,and wife,,,,,,,,,,,,,,Fire
+085,Fat,,,,,,,,,,,,,,,Fire
+086,Feng,,,,,,,,,,,,,,,None
+087,Fire,Nation airship captain,,,,,,,,,,,,,,None
+088,Fire,Nation bar patron,,,,,,,,,,,,,,
+089,Fire,Nation bar patron's friend,,,,,,,,,,,,,,
+090,Fire,Nation company leader,,,,,,,,,,,,,,
+091,Fire,Nation councilwoman,,,,,,,,,,,,,,Fire
+092,Fire,Nation Man,,,,,,,,,,,,,,Fire
+093,Fire,Nation music teacher,,,,,,,,,,,,,,Fire
+094,Fire,Nation train conductor,,,,,,,,,,,,,,Fire
+095,Fire,Nation train engineer,,,,,,,,,,,,,,Fire
+096,Fire,Navy officer,,,,,,,,,,,,,,Earth
+097,Fisherman,,,,,,,,,,,,,,,Fire
+098,Fisherman's,wife,,,,,,,,,,,,,,Fire
+099,Fishmonger,,,,,,,,,,,,,,,Fire
+100,Flopsie,,,,,,,,,,,,,,,Fire
+101,Fluffykins,,,,,,,,,,,,,,,Earth
+102,Flyer,distribution man,,,,,,,,,,,,,,Earth
+103,Foaming,mouth guy,,,,,,,,,,,,,,
+104,Fong,,,,,,,,,,,,,,,
+105,Foo,Foo Cuddlypoops,,,,,,,,,,,,,,
+106,Forest,spirit,,,,,,,,,,,,,,Earth
+107,Frog,spirit,,,,,,,,,,,,,,
+108,Fruithog,,,,,,,,,,,,,,,Earth
+109,Fung,,,,,,,,,,,,,,,
+110,Gan,Jin leader,,,,,,,,,,,,,,Earth
+111,Gan,Jin tribesman,,,,,,,,,,,,,,None
+112,Ganbat,,,,,,,,,,,,,,,None
+113,Gansu,,,,,,,,,,,,,,,Earth
+114,The,Gecko,,,,,,,,,,,,,,None
+115,Ghashiun,,,,,,,,,,,,,,,None
+116,Ghazan,,,,,,,,,,,,,,,None
+117,Gilak,,,,,,,,,,,,,,,None
+118,Ginger,,,,,,,,,,,,,,,Earth
+119,Giya,,,,,,,,,,,,,,,None
+120,Gombo,,,,,,,,,,,,,,,None
+121,Gommu,,,,,,,,,,,,,,,Water
+122,The,Gopher,,,,,,,,,,,,,,
+123,Governor,of Yi,,,,,,,,,,,,,,
+124,Gow,,,,,,,,,,,,,,,
+125,Great,Sage,,,,,,,,,,,,,,None
+126,Green,dragon,,,,,,,,,,,,,,Earth
+127,Guan,,,,,,,,,,,,,,,None
+128,Guard,captain,,,,,,,,,,,,,,Earth
+129,Guard,post officer,,,,,,,,,,,,,,Fire
+130,Guard,post soldier,,,,,,,,,,,,,,Fire
+131,Gun,,,,,,,,,,,,,,,
+132,Guo,,,,,,,,,,,,,,,Fire
+133,Guri,,,,,,,,,,,,,,,Earth
+134,Gyatso,,,,,,,,,,,,,,,Earth
+135,Hahn,,,,,,,,,,,,,,,Earth
+136,Hakoda,,,,,,,,,,,,,,,None
+137,Ham,Ghao,,,,,,,,,,,,,,
+138,Hama,,,,,,,,,,,,,,,Air
+139,Haru,,,,,,,,,,,,,,,Water
+140,Haru's,mother,,,,,,,,,,,,,,Water
+141,Hasook,,,,,,,,,,,,,,,None
+142,Hawky,,,,,,,,,,,,,,,Water
+143,Head,of the Dai Li,,,,,,,,,,,,,,Earth
+144,Headhunter,,,,,,,,,,,,,,,Earth
+145,Headmaster,,,,,,,,,,,,,,,Earth
+146,Hei,Bai,,,,,,,,,,,,,,Fire
+147,Hei-Won,,,,,,,,,,,,,,,None
+148,Herbalist,,,,,,,,,,,,,,,None
+149,Hide,,,,,,,,,,,,,,,Earth
+150,High,Sage,,,,,,,,,,,,,,Fire
+151,Hiroshi,,,,,,,,,,,,,,,None
+152,Hiroshi,Sato,,,,,,,,,,,,,,Air
+153,Hiryu,,,,,,,,,,,,,,,Earth
+154,Ho,Tun,,,,,,,,,,,,,,Fire
+155,Hong,Li,,,,,,,,,,,,,,Fire
+156,Hope,,,,,,,,,,,,,,,Earth
+157,Hotah,,,,,,,,,,,,,,,None
+158,Hou-Ting,,,,,,,,,,,,,,,Water
+159,Hou-Ting's,prisoner,,,,,,,,,,,,,,Earth
+160,How,,,,,,,,,,,,,,,None
+161,Huan,,,,,,,,,,,,,,,
+162,Hundun,,,,,,,,,,,,,,,Water
+163,Huntsman,,,,,,,,,,,,,,,Earth
+164,Huu,,,,,,,,,,,,,,,
+165,Iio,,,,,,,,,,,,,,,Earth
+166,Ikki,,,,,,,,,,,,,,,None
+167,Iknik,Blackstone Varrick,,,,,,,,,,,,,,
+168,Innkeeper,,,,,,,,,,,,,,,Fire
+169,Iroh,,,,,,,,,,,,,,,None
+170,Izumi,,,,,,,,,,,,,,,Air
+171,Jailer,,,,,,,,,,,,,,,Air
+172,Jang,Hui boy,,,,,,,,,,,,,,Water
+173,Jargala,Omo,,,,,,,,,,,,,,
+174,Jaya,,,,,,,,,,,,,,,Fire
+175,Jee,,,,,,,,,,,,,,,Fire
+176,Jeong,Jeong,,,,,,,,,,,,,,Fire
+177,Jet,,,,,,,,,,,,,,,Fire
+178,Jin,,,,,,,,,,,,,,,Fire
+179,Jin,Wei,,,,,,,,,,,,,,
+180,Jingbo,,,,,,,,,,,,,,,
+181,Jinju,,,,,,,,,,,,,,,Fire
+182,Jinora,,,,,,,,,,,,,,,Fire
+183,Jinzuk,and Rina,,,,,,,,,,,,,,Earth
+184,Jojan,,,,,,,,,,,,,,,Earth
+185,Jojo,,,,,,,,,,,,,,,None
+186,Joo,Dee,,,,,,,,,,,,,,Air
+187,Juicy,,,,,,,,,,,,,,,Air
+188,June,,,,,,,,,,,,,,,Air
+189,Juno,,,,,,,,,,,,,,,Fire
+190,Kahchi,,,,,,,,,,,,,,,
+191,Kai,,,,,,,,,,,,,,,
+192,Kaja,,,,,,,,,,,,,,,Fire
+193,Kam,,,,,,,,,,,,,,,Air
+194,Kanna,,,,,,,,,,,,,,,
+195,Karu,,,,,,,,,,,,,,,Earth
+196,Katara,,,,,,,,,,,,,,,Fire
+197,Kei,Lo,,,,,,,,,,,,,,Air
+198,Kelsang,,,,,,,,,,,,,,,Fire
+199,Kemurikage,,,,,,,,,,,,,,,
+200,Kenji,,,,,,,,,,,,,,,Water
+201,Kind,spirits,,,,,,,,,,,,,,None
+202,Kinto,,,,,,,,,,,,,,,Water
+203,Kiyi,,,,,,,,,,,,,,,None
+204,Knowledge,Seekers,,,,,,,,,,,,,,
+205,Koh,,,,,,,,,,,,,,,None
+206,Koko,,,,,,,,,,,,,,,None
+207,Kong,,,,,,,,,,,,,,,Fire
+208,Kori,Morishita,,,,,,,,,,,,,,None
+209,Korra,,,,,,,,,,,,,,,None
+210,Kuei,,,,,,,,,,,,,,,
+211,Kunyo,,,,,,,,,,,,,,,
+212,Kuon,,,,,,,,,,,,,,,None
+213,Kuruk,,,,,,,,,,,,,,,None
+214,Kuvira,,,,,,,,,,,,,,,Earth
+215,Kuzon,,,,,,,,,,,,,,,Air
+216,Kwan,,,,,,,,,,,,,,,Fire
+217,Kya,,,,,,,,,,,,,,,Fire
+218,Kyoshi,,,,,,,,,,,,,,,Earth
+219,La,,,,,,,,,,,,,,,Fire
+220,Laghima,,,,,,,,,,,,,,,
+221,Lao,Beifong,,,,,,,,,,,,,,
+222,Lau,Gan-Lan,,,,,,,,,,,,,,Earth
+223,Lee,,,,,,,,,,,,,,,Fire
+224,Lefty,,,,,,,,,,,,,,,Fire
+225,Li,,,,,,,,,,,,,,,Water
+226,Lian,,,,,,,,,,,,,,,Water
+227,Lian,and Shen,,,,,,,,,,,,,,Water
+228,Lieutenant,,,,,,,,,,,,,,,None
+229,Light,spirit,,,,,,,,,,,,,,Water
+230,Lightning,Bolt Zolt,,,,,,,,,,,,,,Air
+231,Liling,,,,,,,,,,,,,,,Fire
+232,Lily,,,,,,,,,,,,,,,None
+233,Lin,Beifong,,,,,,,,,,,,,,None
+234,Lin,Yee,,,,,,,,,,,,,,
+235,Lo,and Li,,,,,,,,,,,,,,Fire
+236,Loban,,,,,,,,,,,,,,,
+237,Lokai,,,,,,,,,,,,,,,
+238,Long,Feng,,,,,,,,,,,,,,None
+239,Longshot,,,,,,,,,,,,,,,None
+240,Lowly,guard,,,,,,,,,,,,,,None
+241,Lu,and Gang,,,,,,,,,,,,,,None
+242,Lu,Ten,,,,,,,,,,,,,,
+243,Macao,and Lily,,,,,,,,,,,,,,None
+244,Macmu-Ling,,,,,,,,,,,,,,,
+245,Mai,,,,,,,,,,,,,,,Fire
+246,Mak,,,,,,,,,,,,,,,Air
+247,Mako,,,,,,,,,,,,,,,Earth
+248,Malina,,,,,,,,,,,,,,,None
+249,Maliq,,,,,,,,,,,,,,,Earth
+250,Malu,,,,,,,,,,,,,,,None
+251,May-Jim,,,,,,,,,,,,,,,None
+252,Mechanist,,,,,,,,,,,,,,,Fire
+253,Meelo,,,,,,,,,,,,,,,
+254,Meng,,,,,,,,,,,,,,,Earth
+255,Merchant,,,,,,,,,,,,,,,Fire
+256,Metalbender,officer,,,,,,,,,,,,,,Fire
+257,Michi,,,,,,,,,,,,,,,Fire
+258,Ming,,,,,,,,,,,,,,,Water
+259,Ming-Hua,,,,,,,,,,,,,,,Water
+260,Ming-Ming,,,,,,,,,,,,,,,Fire
+261,Ming-Ming's,grandmother,,,,,,,,,,,,,,
+262,Miyuki,,,,,,,,,,,,,,,None
+263,Moku,,,,,,,,,,,,,,,Fire
+264,Momo,,,,,,,,,,,,,,,Air
+265,Mongke,,,,,,,,,,,,,,,Earth
+266,Morishita,,,,,,,,,,,,,,,Earth
+267,Mother,of Faces,,,,,,,,,,,,,,None
+268,Mother,Superior,,,,,,,,,,,,,,Fire
+269,Mrs.,Morishita,,,,,,,,,,,,,,Fire
+270,Mula,,,,,,,,,,,,,,,Water
+271,Mung,,,,,,,,,,,,,,,None
+272,Mura,,,,,,,,,,,,,,,None
+273,Naga,,,,,,,,,,,,,,,Fire
+274,Nini,,,,,,,,,,,,,,,Fire
+275,Nishi,,,,,,,,,,,,,,,
+276,Niyok,,,,,,,,,,,,,,,
+277,Noa,,,,,,,,,,,,,,,Air
+278,Noren,,,,,,,,,,,,,,,Fire
+279,Nutha,,,,,,,,,,,,,,,Fire
+280,Nyla,,,,,,,,,,,,,,,None
+281,Ogodei,,,,,,,,,,,,,,,None
+282,Oh,,,,,,,,,,,,,,,Fire
+283,Ohev,,,,,,,,,,,,,,,
+284,Old,Fire Nation civilian,,,,,,,,,,,,,,Fire
+285,Old,Iron,,,,,,,,,,,,,,Fire
+286,Old,Sweepy,,,,,,,,,,,,,,Water
+287,Old,wanderer,,,,,,,,,,,,,,
+288,Oma,,,,,,,,,,,,,,,Fire
+289,On,Ji,,,,,,,,,,,,,,Fire
+290,Onku,,,,,,,,,,,,,,,
+291,Oogi,,,,,,,,,,,,,,,Fire
+292,Opal,,,,,,,,,,,,,,,Fire
+293,Organ,grinder,,,,,,,,,,,,,,
+294,Otaku,,,,,,,,,,,,,,,Fire
+295,Outpost,soldiers,,,,,,,,,,,,,,None
+296,Oyaji,,,,,,,,,,,,,,,
+297,Ozai,,,,,,,,,,,,,,,Fire
+298,P'Li,,,,,,,,,,,,,,,None
+299,Pabu,,,,,,,,,,,,,,,None
+300,Painted,Lady,,,,,,,,,,,,,,None
+301,Pakku,,,,,,,,,,,,,,,None
+302,Pao,,,,,,,,,,,,,,,Fire
+303,Pasang,,,,,,,,,,,,,,,Earth
+304,Passport,attendant,,,,,,,,,,,,,,None
+305,Pathik,,,,,,,,,,,,,,,Air
+306,Pema,,,,,,,,,,,,,,,
+307,Penga,,,,,,,,,,,,,,,Air
+308,Pepper,,,,,,,,,,,,,,,Earth
+309,Pet,shop owner,,,,,,,,,,,,,,Earth
+310,Piandao,,,,,,,,,,,,,,,Fire
+311,Pik,and Pak,,,,,,,,,,,,,,None
+312,Pipsqueak,,,,,,,,,,,,,,,None
+313,Pirate,captain,,,,,,,,,,,,,,None
+314,Poi,and Ping,,,,,,,,,,,,,,Water
+315,Poki,,,,,,,,,,,,,,,None
+316,Pong,,,,,,,,,,,,,,,Air
+317,Poon,,,,,,,,,,,,,,,Earth
+318,Poppy,Beifong,,,,,,,,,,,,,,
+319,Prison,rig captain,,,,,,,,,,,,,,Air
+320,Professor,,,,,,,,,,,,,,,None
+321,Prosecution,attorney,,,,,,,,,,,,,,Air
+322,Protester,,,,,,,,,,,,,,,Earth
+323,Pu-on,Tim,,,,,,,,,,,,,,Fire
+324,Qin,,,,,,,,,,,,,,,Air
+325,Qin,Lee,,,,,,,,,,,,,,Earth
+326,Quon,,,,,,,,,,,,,,,None
+327,Raava,,,,,,,,,,,,,,,Earth
+328,Radio,operator,,,,,,,,,,,,,,
+329,Rafa,and Misu,,,,,,,,,,,,,,None
+330,Raiko,,,,,,,,,,,,,,,Fire
+331,Ran,and Shaw,,,,,,,,,,,,,,Earth
+332,Riley,,,,,,,,,,,,,,,Fire
+333,Ring,announcer,,,,,,,,,,,,,,
+334,Rock,spirit,,,,,,,,,,,,,,
+335,Rohan,,,,,,,,,,,,,,,None
+336,Roku,,,,,,,,,,,,,,,
+337,Roku's,waterbending master,,,,,,,,,,,,,,Fire
+338,Royal,messenger,,,,,,,,,,,,,,Air
+339,Ru,and Yaling,,,,,,,,,,,,,,
+340,Ruon-Jian,,,,,,,,,,,,,,,None
+341,Ryu,,,,,,,,,,,,,,,Earth
+342,Ryu's,mother,,,,,,,,,,,,,,
+343,Saikhan,,,,,,,,,,,,,,,None
+344,San,,,,,,,,,,,,,,,None
+345,Sangok,,,,,,,,,,,,,,,None
+346,Satoru,,,,,,,,,,,,,,,None
+347,Scary,prisoner,,,,,,,,,,,,,,None
+348,Sela,,,,,,,,,,,,,,,Air
+349,Senlin,Village leader,,,,,,,,,,,,,,
+350,Senna,,,,,,,,,,,,,,,Water
+351,Sensitive,ruffian,,,,,,,,,,,,,,Earth
+352,Sensu,,,,,,,,,,,,,,,
+353,Sha-Mo,,,,,,,,,,,,,,,Fire
+354,Shady,Shin,,,,,,,,,,,,,,Air
+355,Shaman,,,,,,,,,,,,,,,
+356,Shiro,Shinobi,,,,,,,,,,,,,,None
+357,Sho,,,,,,,,,,,,,,,Earth
+358,Shoji,,,,,,,,,,,,,,,
+359,Shu,,,,,,,,,,,,,,,Water
+360,Shung,,,,,,,,,,,,,,,Fire
+361,Shyu,,,,,,,,,,,,,,,
+362,Siku,and Sura,,,,,,,,,,,,,,None
+363,Skoochy,,,,,,,,,,,,,,,None
+364,Slim,,,,,,,,,,,,,,,Water
+365,Smellerbee,,,,,,,,,,,,,,,
+366,Sneers,,,,,,,,,,,,,,,Earth
+367,Sokka,,,,,,,,,,,,,,,None
+368,Song,,,,,,,,,,,,,,,None
+369,Song's,mother,,,,,,,,,,,,,,None
+370,Soonjei,,,,,,,,,,,,,,,None
+371,Southern,Raiders commander,,,,,,,,,,,,,,Fire
+372,Southern,Water Tribe boy,,,,,,,,,,,,,,Fire
+373,Southern,Water Tribe girl,,,,,,,,,,,,,,None
+374,Sozin,,,,,,,,,,,,,,,Air
+375,Sozin's,dragon,,,,,,,,,,,,,,Fire
+376,Star,,,,,,,,,,,,,,,
+377,Storyteller,,,,,,,,,,,,,,,
+378,Sud,,,,,,,,,,,,,,,None
+379,Suki,,,,,,,,,,,,,,,Earth
+380,Sun,Warrior chief,,,,,,,,,,,,,,Earth
+381,Sung,,,,,,,,,,,,,,,Water
+382,Suyin,Beifong,,,,,,,,,,,,,,Water
+383,Suyin's,chef,,,,,,,,,,,,,,Water
+384,Swami,,,,,,,,,,,,,,,None
+385,Ta,Min,,,,,,,,,,,,,,None
+386,Tagaka,,,,,,,,,,,,,,,
+387,Tahno,,,,,,,,,,,,,,,
+388,Tang,Xu,,,,,,,,,,,,,,None
+389,Tarrlok,,,,,,,,,,,,,,,
+390,Tashi,,,,,,,,,,,,,,,Water
+391,Tax,collector,,,,,,,,,,,,,,Fire
+392,Tenzin,,,,,,,,,,,,,,,Fire
+393,Teo,,,,,,,,,,,,,,,
+394,Than,,,,,,,,,,,,,,,
+395,Than's,sister,,,,,,,,,,,,,,Earth
+396,Tho,,,,,,,,,,,,,,,Earth
+397,Thod,,,,,,,,,,,,,,,None
+398,Thod's,disciples,,,,,,,,,,,,,,Earth
+399,Ticket,woman,,,,,,,,,,,,,,Fire
+400,Tienhai,,,,,,,,,,,,,,,None
+401,Tienhai's,husband,,,,,,,,,,,,,,None
+402,Tokuga,,,,,,,,,,,,,,,
+403,Tom-Tom,,,,,,,,,,,,,,,Fire
+404,Tong,,,,,,,,,,,,,,,
+405,Tonraq,,,,,,,,,,,,,,,None
+406,Toph,Beifong,,,,,,,,,,,,,,Air
+407,Tough,criminal,,,,,,,,,,,,,,Water
+408,Town,authority,,,,,,,,,,,,,,Air
+409,Toz,,,,,,,,,,,,,,,Fire
+410,Toza,,,,,,,,,,,,,,,Air
+411,Tu,,,,,,,,,,,,,,,Earth
+412,Tui,,,,,,,,,,,,,,,Earth
+413,Tuyen,,,,,,,,,,,,,,,
+414,Two,Toed Ping,,,,,,,,,,,,,,None
+415,Ty,Lee,,,,,,,,,,,,,,Water
+416,Tycho,,,,,,,,,,,,,,,Water
+417,Tyro,,,,,,,,,,,,,,,Earth
+418,Ukano,,,,,,,,,,,,,,,None
+419,Ummi,,,,,,,,,,,,,,,None
+420,Unalaq,,,,,,,,,,,,,,,
+421,Unnamed,Earth Kingdom boys,,,,,,,,,,,,,,Fire
+422,Unnamed,Fire Nation boy,,,,,,,,,,,,,,Earth
+423,Ursa,,,,,,,,,,,,,,,Water
+424,Utor,,,,,,,,,,,,,,,Fire
+425,Vaatu,,,,,,,,,,,,,,,None
+426,Vachir,,,,,,,,,,,,,,,
+427,Viper,,,,,,,,,,,,,,,Fire
+428,Visola,,,,,,,,,,,,,,,
+429,Wacky,Wushu,,,,,,,,,,,,,,None
+430,Wan,,,,,,,,,,,,,,,
+431,Wan,Shi Tong,,,,,,,,,,,,,,Water
+432,Warehouse,worker,,,,,,,,,,,,,,
+433,Weapons,store shopkeeper,,,,,,,,,,,,,,None
+434,Wei,,,,,,,,,,,,,,,Fire
+435,Wei,and Wing,,,,,,,,,,,,,,
+436,Wei,Jin,,,,,,,,,,,,,,Earth
+437,Wenyan,,,,,,,,,,,,,,,Fire
+438,White,Lotus leader,,,,,,,,,,,,,,Water
+439,Wolf,spirit,,,,,,,,,,,,,,Water
+440,Won-Yee,,,,,,,,,,,,,,,
+441,Wonyong,Keum,,,,,,,,,,,,,,
+442,Wu,,,,,,,,,,,,,,,Fire
+443,Xin,Fu,,,,,,,,,,,,,,Fire
+444,Xing,Ying,,,,,,,,,,,,,,None
+445,Yahshi,,,,,,,,,,,,,,,Fire
+446,Yakone,,,,,,,,,,,,,,,None
+447,Yakone's,wife,,,,,,,,,,,,,,Water
+448,Yangchen,,,,,,,,,,,,,,,
+449,Yangchen's,predecessor,,,,,,,,,,,,,,None
+450,Yao,,,,,,,,,,,,,,,None
+451,Yasuko,,,,,,,,,,,,,,,Fire
+452,Yee-Li,,,,,,,,,,,,,,,Fire
+453,Yeh-Lu,,,,,,,,,,,,,,,None
+454,Yi,Ming,,,,,,,,,,,,,,Fire
+455,Yin,,,,,,,,,,,,,,,Water
+456,Ying,,,,,,,,,,,,,,,None
+457,Yon,Rha,,,,,,,,,,,,,,None
+458,Yon,Rha's mother,,,,,,,,,,,,,,
+459,Yu,,,,,,,,,,,,,,,None
+460,Yuan,,,,,,,,,,,,,,,None
+461,Yue,,,,,,,,,,,,,,,Air
+462,Yugoda,,,,,,,,,,,,,,,
+463,Yung,,,,,,,,,,,,,,,Earth
+464,Zaheer,,,,,,,,,,,,,,,Earth
+465,Zei,,,,,,,,,,,,,,,Earth
+466,Zhang,leader,,,,,,,,,,,,,,Air
+467,Zhao,,,,,,,,,,,,,,,Earth
+468,Zhen,,,,,,,,,,,,,,,
+469,Zhu,Li Moon,,,,,,,,,,,,,,Water
+470,Zuko,,,,,,,,,,,,,,,
